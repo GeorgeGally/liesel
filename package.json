@@ -1,6 +1,6 @@
 {
   "name": "liesel",
-  "version": "0.2.0",
+  "version": "0.1.96",
   "packageManager": "pnpm@11.1.1",
   "description": "HTML is the new markdown. Liesel is a board for reviewing and tuning HTML designs with your agent.",
   "type": "module",
